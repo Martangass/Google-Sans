@@ -4,7 +4,9 @@ Here u can find the Google Sans Font. it's not available at normal font library'
 I used in my Chrome Update Popup for maleware..
 
 
+Locate the file in ur code folder.
 
+Than u can link it in the Header data with the code below.
 
 ```
 <link rel="stylesheet" src= google-sans-font.css>
