@@ -6,7 +6,7 @@ I used it in my Chrome Update Popup for maleware..
 
 Locate the file in your code folder.
 
-Than u can link it in the Header data with the code below.
+Than you can link it in the Header data with the code below.
 
 ```
 <link rel="stylesheet" src= google-sans-font.css>
