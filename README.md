@@ -9,7 +9,7 @@ Locate the file in your code folder.
 Than you can link it in the Header data with the code below.
 
 ```
-<link rel="stylesheet" src= google-sans-font.css>
+<link rel="stylesheet" src="google-sans-font.css">
 ```
 
 Written by Martangas 
